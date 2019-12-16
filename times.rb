@@ -1,4 +1,4 @@
-using_times = ("Wingardium Leviosa")
+def using_times = ("Wingardium Leviosa")
 
 #loop times = 
 
