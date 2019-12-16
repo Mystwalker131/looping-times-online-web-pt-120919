@@ -3,7 +3,7 @@ using_times = ("Wingardium Leviosa")
 #loop times = 
 
 7.times do 
-  puts "Wingardium Leviosa"
+  puts using_times "Wingardium Leviosa"
 end
 
 
