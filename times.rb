@@ -1,3 +1,5 @@
+using_times
+
 loop = ("Wingardium Leviosa")
 
 7.times do 
