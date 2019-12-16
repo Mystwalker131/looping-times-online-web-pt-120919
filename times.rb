@@ -2,6 +2,8 @@
   
  7.times do
    puts  "Wingardium Leviosa"
+   using_times = 7
+   using_times => 7
 end
 
 
