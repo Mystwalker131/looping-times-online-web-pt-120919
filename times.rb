@@ -1,6 +1,6 @@
 using_times = ("Wingardium Leviosa")
 
-loop = ("Wingardium Leviosa")
+loop times = 7
 
 7.times do 
   puts "Wingardium Leviosa"
