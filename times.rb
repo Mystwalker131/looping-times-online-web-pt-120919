@@ -1,4 +1,4 @@
-using_times = 
+using_times = ("Wingardium Leviosa")
 
 loop = ("Wingardium Leviosa")
 
