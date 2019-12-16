@@ -2,7 +2,7 @@ using_times = ("Wingardium Leviosa")
 
 #loop times = 
 
-7.times 
+7.times do 
   puts "Wingardium Leviosa"
 end
 
