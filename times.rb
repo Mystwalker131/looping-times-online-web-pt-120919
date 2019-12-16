@@ -1,7 +1,4 @@
 
-
-
-
 #def greet_person("Benny!")
   using_times = "Wingardium Leviosa"
   
