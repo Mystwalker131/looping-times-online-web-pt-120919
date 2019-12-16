@@ -4,7 +4,7 @@
 
 #def greet_person("Benny!")
   using_times = 7
-  puts "Wing"
+  puts "Wingardium Leviosa"
   
 
 
