@@ -1,6 +1,6 @@
 
 #def greet_person("Benny!")
-# using_times = "Wingardium Leviosa"
+ using_times = "Wingardium Leviosa"
  #loop using_times "Wingardium Leviosa"
  
   7.times do
