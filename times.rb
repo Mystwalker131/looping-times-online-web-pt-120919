@@ -1,4 +1,4 @@
-loop string ("Wingardium Leviosa")
+loop phrase ("Wingardium Leviosa")
 
 7.times do 
   puts "Wingardium Leviosa"
