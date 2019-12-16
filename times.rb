@@ -4,7 +4,7 @@ def using_times
 
 7.times do 
   puts times "Wingardium Leviosa"
-end
+
 
 
 
